@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Website for projects and other information on the Aero Society at the University of the West of England, Bristol.
+A place for projects and other information from the UWE Bristol Aero Society.
